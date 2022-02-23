@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="number.Views.Page1" 
+             BackgroundColor="#f4c723">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame BackgroundColor="Transparent" 
+                   HasShadow="False" 
+                   VerticalOptions="FillAndExpand">
+                <StackLayout VerticalOptions="Center">
+                    <Label HorizontalOptions="Center"
+                        FontSize="50" 
+                        Text="Le nombre"
+                        TextColor= "#60593b"/>
+                    <Button Text="JOUER" 
+                        Clicked="Play_Button_Clicked"
+                        BackgroundColor="#dcb51a"
+                        TextColor="White"
+                        HorizontalOptions="Center"
+                        WidthRequest="120"
+                        Margin="0,20,0,0"/>
+                </StackLayout>
+            </Frame>
+            <BoxView Rotation="-10" 
+                     Margin="-20,0,-20,-35"
+                     HeightRequest="120"
+                     BackgroundColor="{StaticResource shadowColor}">
+                
+            </BoxView>
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="number.Views.Play"
+              BackgroundColor="#f4c723">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Margin="0,50,0,0" 
+                 HorizontalOptions="Center"
+                 FontSize="30" 
+                 Text="Devinez"
+                   TextColor= "#60593b"/>
+            <Label HorizontalOptions="Center" 
+                   FontSize="30" 
+                   Text="le nombre" 
+                   TextColor= "#60593b"/>
+            <Label HorizontalOptions="Center" 
+                   FontSize="20"
+                   FontAttributes="Italic"
+                   x:Name="MinMaxLabel"
+                   TextColor= "{StaticResource titleColor}"
+                   Text="entre X et X" />
+            <Entry Placeholder="?" 
+                   PlaceholderColor="White"
+                   FontSize="80" 
+                   HorizontalOptions="Center" 
+                   WidthRequest="150" 
+                   HorizontalTextAlignment="Center" 
+                   Margin="0,50,0,0"
+                   x:Name="NumberEntry"
+                   BackgroundColor="#dcb51a"
+                   Keyboard="Numeric" />
+
+            <Button Text="Deviner" Clicked="Button_Clicked"
+                    BackgroundColor="#dcb51a"
+                    TextColor="White"
+                    HorizontalOptions="Center"
+                    WidthRequest="120"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

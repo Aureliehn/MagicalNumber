@@ -1,0 +1,17 @@
+C:\Users\abesnard\Nouveau dossier\nombreMagiqueAppli\MagicalNumber\number\number\number\obj\Debug\netstandard2.0\number.csproj.AssemblyReference.cache
+C:\Users\abesnard\Nouveau dossier\nombreMagiqueAppli\MagicalNumber\number\number\number\obj\Debug\netstandard2.0\number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abesnard\Nouveau dossier\nombreMagiqueAppli\MagicalNumber\number\number\number\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\abesnard\Nouveau dossier\nombreMagiqueAppli\MagicalNumber\number\number\number\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\abesnard\Nouveau dossier\nombreMagiqueAppli\MagicalNumber\number\number\number\obj\Debug\netstandard2.0\Views\Page1.xaml.g.cs
+C:\Users\abesnard\Nouveau dossier\nombreMagiqueAppli\MagicalNumber\number\number\number\obj\Debug\netstandard2.0\Views\Play.xaml.g.cs
+C:\Users\abesnard\Nouveau dossier\nombreMagiqueAppli\MagicalNumber\number\number\number\obj\Debug\netstandard2.0\number.AssemblyInfoInputs.cache
+C:\Users\abesnard\Nouveau dossier\nombreMagiqueAppli\MagicalNumber\number\number\number\obj\Debug\netstandard2.0\number.AssemblyInfo.cs
+C:\Users\abesnard\Nouveau dossier\nombreMagiqueAppli\MagicalNumber\number\number\number\obj\Debug\netstandard2.0\number.csproj.CoreCompileInputs.cache
+C:\Users\abesnard\Nouveau dossier\nombreMagiqueAppli\MagicalNumber\number\number\number\obj\Debug\netstandard2.0\number.dll
+C:\Users\abesnard\Nouveau dossier\nombreMagiqueAppli\MagicalNumber\number\number\number\obj\Debug\netstandard2.0\ref\number.dll
+C:\Users\abesnard\Nouveau dossier\nombreMagiqueAppli\MagicalNumber\number\number\number\obj\Debug\netstandard2.0\number.pdb
+C:\Users\abesnard\Nouveau dossier\nombreMagiqueAppli\MagicalNumber\number\number\number\bin\Debug\netstandard2.0\number.deps.json
+C:\Users\abesnard\Nouveau dossier\nombreMagiqueAppli\MagicalNumber\number\number\number\bin\Debug\netstandard2.0\number.dll
+C:\Users\abesnard\Nouveau dossier\nombreMagiqueAppli\MagicalNumber\number\number\number\bin\Debug\netstandard2.0\ref\number.dll
+C:\Users\abesnard\Nouveau dossier\nombreMagiqueAppli\MagicalNumber\number\number\number\bin\Debug\netstandard2.0\number.pdb
+C:\Users\abesnard\Nouveau dossier\nombreMagiqueAppli\MagicalNumber\number\number\number\obj\Debug\netstandard2.0\XamlC.stamp
